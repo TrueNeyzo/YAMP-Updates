@@ -3,7 +3,7 @@
   "versionName": "0.9.4",
   "versionCode": 9004,
   "publishedAt": "2026-10-03",
-  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/v0.9.4/app-release.apk",
+  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/0.9.4/app-release.apk",
   "sha256": "0064a7abd722e3d40d37afa3cb6483863dd1a9bdc7b763a3c6c908298ec4a8a1",
   "releaseNotes": [
     "Тестирование встроенной системы обновлений YAMP"
