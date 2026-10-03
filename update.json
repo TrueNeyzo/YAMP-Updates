@@ -1,12 +1,14 @@
 {
   "schema": 1,
-  "versionName": "1.0.0",
-  "versionCode": 10000,
+  "versionName": "0.9.2",
+  "versionCode": 9002,
   "publishedAt": "2026-10-03",
-  "apkUrl": "",
-  "sha256": "",
+  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/v0.9.2/app-release.apk",
+  "sha256": "4e600c07c516f398627eb8ad2d4385b605eb47ba020c7edc558469eb5d7cda5b",
   "releaseNotes": [
-    "Первый публичный выпуск YAMP"
+    "Добавлены готовые станции",
+    "Тестирование встроенной системы обновлений",
+    "Внутренние улучшения Android-версии"
   ],
   "mandatory": false
 }
