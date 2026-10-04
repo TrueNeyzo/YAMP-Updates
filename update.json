@@ -1,13 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.9.8",
-  "versionCode": 9008,
+  "versionName": "0.9.9",
+  "versionCode": 9009,
   "publishedAt": "2026-10-03",
-  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/0.9.8/app-release.apk",
-  "sha256": "8771c14a28095cc3dfdb900f04fbb8da3e545241d3482c8edef3a638ea925024",
+  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/0.9.9/app-release.apk",
+  "sha256": "4d3475901c3ed5aa6afc328470692bf6547620a5255ef77402b6f7b17c722050",
   "releaseNotes": [
-    "Исправление ошибок"
+    "Исправление багов"
   ],
   "mandatory": false
 }
-
