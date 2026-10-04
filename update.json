@@ -1,12 +1,13 @@
 {
   "schema": 1,
-  "versionName": "0.9.12",
-  "versionCode": 9012,
+  "versionName": "0.9.13",
+  "versionCode": 9013,
   "publishedAt": "2026-10-04",
-  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/0.9.12/app-release.apk",
-  "sha256": "378b8d2751269e387369afdc829f1ab7d255ba69cd22872f2a0bff6114370405",
+  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/0.9.13/app-release.apk",
+  "sha256": "704d59b941ee70605e4bcad26589ada5c9efa5f3e60b54fa8cbfebf3a571ac74",
   "releaseNotes": [
-    "Исправление багов"
+    "Исправление ошибок"
   ],
   "mandatory": false
 }
+
