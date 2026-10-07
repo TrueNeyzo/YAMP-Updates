@@ -1,14 +1,16 @@
 {
   "schema": 1,
-  "versionName": "1.1.1",
-  "versionCode": 10101,
+  "versionName": "1.1.2",
+  "versionCode": 10102,
   "publishedAt": "2026-10-04",
-  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/1.1.1/app-release.apk",
-  "sha256": "79071ba38680ad42c2e1ad67ecb8046c43735900011a8ab881b42cf56d82452d",
+  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/1.1.2/app-release.apk",
+  "sha256": "671f5e12fac0b01c1f1f3c68bffd9b77d830e096c9bdd1db027c111fc34088ed",
   "releaseNotes": [
     "Исправление багов"
   ],
   "mandatory": false
+}
+ndatory": false
 }
 
 
