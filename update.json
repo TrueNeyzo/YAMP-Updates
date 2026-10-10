@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionName": "1.2.7",
-  "versionCode": 10207,
+  "versionName": "1.2.8",
+  "versionCode": 10208,
   "publishedAt": "2026-10-10",
-  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/1.2.7/app-release.apk",
-  "sha256": "0d2648267fc6614cc815bed0a5cbe51082fcba2291991f9d109ecf14779091f4",
+  "apkUrl": "https://github.com/TrueNeyzo/YAMP-Updates/releases/download/1.2.8/app-release.apk",
+  "sha256": "0db454c1857b1278c617a3fac995f77994bcd3ec9908fe1f4c88c26c4882a20b",
   "releaseNotes": [
     "YAMP 1.2.7 - Улучшения стабильности",
     "- **Улучшена загрузка музыки:** ускорен запуск станций и оптимизировано предварительное получение следующих треков.",
